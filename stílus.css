@@ -1,0 +1,31 @@
+#jobb,#bal {
+    margin-top: 6mm;
+    margin-bottom: 6mm;
+    border: 5pt burlywood dotted;
+}
+p {
+        text-align: justify;
+        background-color: cornsilk;
+        margin-top: 3mm;
+        margin-bottom: 3mm;
+        margin-left: 3mm;
+        margin-right: 3mm;
+        padding-top: 2mm;
+        padding-bottom: 2mm;
+        padding-right: 6mm;
+        padding-left: 6mm;
+        text-indent: 1.5cm;
+}
+#bal {
+    width: 70%;
+}
+#jobb {
+    width: 80%;
+}
+.piros {
+    border-right: 3mm darkred double;
+}
+.kék {
+    margin-bottom: 1cm;
+    border-left: 1mm blueviolet dashed;   
+}
