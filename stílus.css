@@ -21,6 +21,7 @@ p {
 }
 #jobb {
     width: 80%;
+    margin-left: 4cm;
 }
 .piros {
     border-right: 3mm darkred double;
@@ -28,4 +29,14 @@ p {
 .kék {
     margin-bottom: 1cm;
     border-left: 1mm blueviolet dashed;   
+    border-bottom: 2mm blue dashed;
+}
+.kék span {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;   
+    color: blue;
+}
+.piros span {
+    font-variant: small-caps;
+    color: crimson;
 }
