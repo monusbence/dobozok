@@ -27,8 +27,8 @@ p {
     border-right: 3mm darkred double;
 }
 .kék {
-    margin-bottom: 1cm;
-    border-left: 1mm blueviolet dashed;   
+    padding-bottom: 1cm;
+    border-left: 1mm blueviolet dashed;
     border-bottom: 2mm blue dashed;
 }
 .kék span {
